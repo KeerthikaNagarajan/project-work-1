@@ -1,5 +1,6 @@
+i dont know how to push jup note in git sorry mate
 # project-work-1
-```
+```py
 import openai
 from moviepy.editor import VideoFileClip
 import whisper
